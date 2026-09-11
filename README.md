@@ -16,4 +16,16 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
