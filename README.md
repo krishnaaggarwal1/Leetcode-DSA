@@ -28,4 +28,8 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0620-not-boring-movies](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
