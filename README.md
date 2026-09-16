@@ -39,4 +39,13 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0231-power-of-two](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
