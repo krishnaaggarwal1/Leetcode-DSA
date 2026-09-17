@@ -7,6 +7,7 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -25,6 +26,7 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -34,6 +36,7 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -45,10 +48,12 @@ Leetcode and other practice questions
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0231-power-of-two](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -57,6 +62,7 @@ Leetcode and other practice questions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
