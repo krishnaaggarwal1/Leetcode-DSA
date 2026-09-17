@@ -8,6 +8,7 @@ Leetcode and other practice questions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
