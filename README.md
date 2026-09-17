@@ -7,6 +7,7 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -21,6 +22,7 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -38,6 +40,7 @@ Leetcode and other practice questions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -77,4 +80,12 @@ Leetcode and other practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/krishnaaggarwal1/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
